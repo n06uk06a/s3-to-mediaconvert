@@ -1,0 +1,8 @@
+.DS_Store
+/build/
+/.vscode/*
+/package.yaml
+/vendor/*
+/go.sum
+/config.toml
+/serverless-output.yaml
